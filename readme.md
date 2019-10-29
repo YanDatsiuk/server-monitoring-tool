@@ -1,6 +1,6 @@
 # Server Monitoring tool
 
-Main purpose of the project - allow servers owners / administrators to monitor status of the servers / services.
+Main purpose of the project - allow servers owners / administrators to monitor status of their servers / services.
 
 ## Status of this project
 
