@@ -1,6 +1,6 @@
 # Server Monitoring tool
 
-Main purpose of the project - allow servers owners / administrators to monitor status of their servers / services.
+Main purpose of the project - allow servers owners / administrators to monitor the status of their servers / services.
 
 ## Status of this project
 
@@ -26,7 +26,7 @@ Directory `execution-log` - contains information about start and end execution t
 - **admin dashboard for tools-configuration**
   - create admin dashboard for managing tools-configurations.
   - user should have a possibility to add tool and set its configuration.
-  - user should have a possibility to view/edit/remove already existed tools and their configurations.
+  - user should have a possibility to view/edit/remove already existing tools and their configurations.
 - **admin dashboard for watching execution logs.**
 - **system with different notification channel providers. (email, sms, slack...)**
 
