@@ -18,6 +18,7 @@ Directory `execution-log` - contains information about start and end execution t
 
 ## Roadmap
 - **core**
+  - create structure ToolConfig
   - user should have a possibility to choose how to execute tool - via API or by schedule or both.
 - **tools**
   - create simple server ping tool.
